@@ -35,5 +35,7 @@
   "workbench.editor.tabCloseButton": "right",
   "material-icon-theme.hidesExplorerArrows": true,
   "material-icon-theme.activeIconPack": "react",
-  "material-icon-theme.folders.theme": "specific"
+  "material-icon-theme.folders.theme": "specific",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "beautify.tabSize": 2
 }
