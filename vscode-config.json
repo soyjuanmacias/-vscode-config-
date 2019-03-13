@@ -30,11 +30,20 @@
     "**/CVS": true,
     "**/.DS_Store": false
   },
-  "typescript.autoImportSuggestions.enabled": false,
   "workbench.editor.openPositioning": "right",
   "workbench.editor.tabCloseButton": "right",
   "material-icon-theme.hidesExplorerArrows": true,
   "material-icon-theme.activeIconPack": "react",
   "material-icon-theme.folders.theme": "specific",
-  "liveServer.settings.donotShowInfoMsg": true
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "html"
+  },
+  "[javascriptreact]": {}
 }
